@@ -1,0 +1,8 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rafael77ldn/back.git",
+  "author": "Rafael Fernandes <rafael.londrina@gmail.com>",
+  "license": "MIT"
+}
